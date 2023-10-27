@@ -1,0 +1,9 @@
+#project_center_page {
+    min-height: calc(100vh - 81px);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #project_center_content {
+    flex: 1;
+  }
